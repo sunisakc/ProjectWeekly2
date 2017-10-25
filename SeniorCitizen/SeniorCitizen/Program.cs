@@ -40,7 +40,7 @@ namespace SeniorCitizen
                 else if (input == "0")
                 {
                     break;
-                }
+                } 
                 else
                 {
                     Console.WriteLine("Incorrect choice");
